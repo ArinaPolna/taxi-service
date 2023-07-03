@@ -49,11 +49,11 @@ To run the Taxi Service project, follow these steps:
 * username: your accessing username
    
 * password: your accessing password
-  ![](C:\Users\HP\Pictures\Saved Pictures\connection_info)
+  ![](C:\Users\HP\Pictures\Saved Pictures\connection_info.png)
 
 4. To deploy this project you need to install Apache Tomcat web server. It's better to use 9.0.50 version which you can download [here]. After installation, you can set up necessary configurations and fix Tomcat by selecting the artifact to deploy taxi-service:war. It's also better to remove the Application context taxi_service_war to /
-![](C:\Users\HP\Pictures\Saved Pictures\tomcat)
-![](C:\Users\HP\Pictures\Saved Pictures\tomcat_2)
+![](C:\Users\HP\Pictures\Saved Pictures\tomcat.png)
+![](C:\Users\HP\Pictures\Saved Pictures\tomcat_2.png)
 
 5. Start Tomcat and application's login page should appear. Once logged in, you should be able to access different features of the application
 
