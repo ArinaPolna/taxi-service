@@ -1,8 +1,8 @@
-# <img src="https://fi.pinterest.com/pin/709879960001346945"  style="width: 120px; height: 67px;" /> Taxi Service <img src="https://fi.pinterest.com/pin/709879960001346945"  style="width: 120px; height: 67px;" />
+# 🚖 Taxi Service 🚖
 
 This project is a system for managing cars, drivers, and manufacturers in a taxi service. It provides functionality for creating, updating, and deleting cars, drivers, and manufacturers, as well as retrieving information about them. The project follows a three-tier architecture with separate layers for the controller, service, and data access objects (DAO)
 
-# Functionality
+# ⚡️ Functionality
 Taxi service offers the following functionality:
 
 * Car management: Creating, updating, and deleting cars, retrieving a list of all cars, and retrieving cars by driver.
@@ -13,7 +13,7 @@ Taxi service offers the following functionality:
 
 * Manufacturer management: Creating, updating, and deleting manufacturers, retrieving a list of all manufacturers.
 
-# Project Structure
+# 📝 Project Structure
 The project follows a three-tier architecture with the following structure:
 
 * Controller: Handles incoming requests from user and invokes the appropriate service methods.
@@ -24,7 +24,7 @@ The project follows a three-tier architecture with the following structure:
 
 * DAO: Transfers requests from the service layer to the database, and executes SQL queries.
 
-# Technologies Used
+# 🧬 Technologies Used
 * Java 17
 * Apache Tomcat 9.0.50
 * MySQL 8.0.28
@@ -34,7 +34,7 @@ The project follows a three-tier architecture with the following structure:
 * JSTL 1.2
 * JDBC
 
-# Instructions for project running
+# 🚀 Instructions for project running
 To run the Taxi Service project, follow these steps:
 
 1. Clone this project 
