@@ -1,4 +1,4 @@
-# Taxi Service
+# <img src="https://fi.pinterest.com/pin/709879960001346945"  style="width: 120px; height: 67px;" /> Taxi Service <img src="https://fi.pinterest.com/pin/709879960001346945"  style="width: 120px; height: 67px;" />
 
 This project is a system for managing cars, drivers, and manufacturers in a taxi service. It provides functionality for creating, updating, and deleting cars, drivers, and manufacturers, as well as retrieving information about them. The project follows a three-tier architecture with separate layers for the controller, service, and data access objects (DAO)
 
@@ -51,7 +51,7 @@ To run the Taxi Service project, follow these steps:
 * password: your accessing password
   ![](connection_info.png)
 
-4. To deploy this project you need to install Apache Tomcat web server. It's better to use 9.0.50 version which you can download [here]. After installation, you can set up necessary configurations and fix Tomcat by selecting the artifact to deploy taxi-service:war. It's also better to remove the Application context taxi_service_war to /
+4. To deploy this project you need to install Apache Tomcat web server. It's better to use 9.0.50 version which you can download [here](https://tomcat.apache.org/download-90.cgi). After installation, you can set up necessary configurations and fix Tomcat by selecting the artifact to deploy taxi-service:war exploded. It's also better to remove the Application context taxi_service_war exploded to /
 ![](tomcat.png)
 ![](tomcat_2.png)
 
